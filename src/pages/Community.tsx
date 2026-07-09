@@ -11,7 +11,7 @@ const Community = () => {
   };
 
   const handleJoinTelegram = () => {
-    window.open("https://t.me/bluepaylimited0x", "_blank");
+    window.open("https://t.me/+4ugfaiiH7t83OWY0", "_blank");
   };
 
   return (
